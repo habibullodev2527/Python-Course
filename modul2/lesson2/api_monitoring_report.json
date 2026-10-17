@@ -1,0 +1,38 @@
+{
+    "Average Response Time": 0.9983,
+    "Success Rate": 100.0,
+    "Monitoring Results": [
+        {
+            "Endpoint": "/users",
+            "Status Code": 200,
+            "Success": true,
+            "Response Time (sec)": 0.8951,
+            "Payload Size (bytes)": 5645,
+            "Performance Score": 4.85
+        },
+        {
+            "Endpoint": "/todos",
+            "Status Code": 200,
+            "Success": true,
+            "Response Time (sec)": 0.9295,
+            "Payload Size (bytes)": 24311,
+            "Performance Score": -17.26
+        },
+        {
+            "Endpoint": "/posts",
+            "Status Code": 200,
+            "Success": true,
+            "Response Time (sec)": 0.9557,
+            "Payload Size (bytes)": 27520,
+            "Performance Score": -23.09
+        },
+        {
+            "Endpoint": "/comments",
+            "Status Code": 200,
+            "Success": true,
+            "Response Time (sec)": 1.2129,
+            "Payload Size (bytes)": 157745,
+            "Performance Score": -179.03
+        }
+    ]
+}

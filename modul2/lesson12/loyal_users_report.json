@@ -1,0 +1,248 @@
+[
+    {
+        "User_ID":1001,
+        "Full_Name":"USER_0 FAMILY_0",
+        "City":"Tashkent",
+        "Total_Price":5058
+    },
+    {
+        "User_ID":1004,
+        "Full_Name":"USER_3 FAMILY_3",
+        "City":"Tashkent",
+        "Total_Price":6649
+    },
+    {
+        "User_ID":1005,
+        "Full_Name":"USER_4 FAMILY_4",
+        "City":"Fergana",
+        "Total_Price":13740
+    },
+    {
+        "User_ID":1011,
+        "Full_Name":"USER_10 FAMILY_10",
+        "City":"Fergana",
+        "Total_Price":7760
+    },
+    {
+        "User_ID":1014,
+        "Full_Name":"USER_13 FAMILY_13",
+        "City":"Bukhara",
+        "Total_Price":14706
+    },
+    {
+        "User_ID":1026,
+        "Full_Name":"USER_25 FAMILY_25",
+        "City":"Namangan",
+        "Total_Price":15283
+    },
+    {
+        "User_ID":1031,
+        "Full_Name":"USER_30 FAMILY_30",
+        "City":"Bukhara",
+        "Total_Price":7784
+    },
+    {
+        "User_ID":1034,
+        "Full_Name":"USER_33 FAMILY_33",
+        "City":"Tashkent",
+        "Total_Price":5532
+    },
+    {
+        "User_ID":1035,
+        "Full_Name":"USER_34 FAMILY_34",
+        "City":"Namangan",
+        "Total_Price":11132
+    },
+    {
+        "User_ID":1037,
+        "Full_Name":"USER_36 FAMILY_36",
+        "City":"Bukhara",
+        "Total_Price":5445
+    },
+    {
+        "User_ID":1038,
+        "Full_Name":"USER_37 FAMILY_37",
+        "City":"Tashkent",
+        "Total_Price":14031
+    },
+    {
+        "User_ID":1040,
+        "Full_Name":"USER_39 FAMILY_39",
+        "City":"Fergana",
+        "Total_Price":10400
+    },
+    {
+        "User_ID":1042,
+        "Full_Name":"USER_41 FAMILY_41",
+        "City":"Samarkand",
+        "Total_Price":8742
+    },
+    {
+        "User_ID":1049,
+        "Full_Name":"USER_48 FAMILY_48",
+        "City":"Samarkand",
+        "Total_Price":6125
+    },
+    {
+        "User_ID":1060,
+        "Full_Name":"USER_59 FAMILY_59",
+        "City":"Fergana",
+        "Total_Price":8814
+    },
+    {
+        "User_ID":1062,
+        "Full_Name":"USER_61 FAMILY_61",
+        "City":"Namangan",
+        "Total_Price":21951
+    },
+    {
+        "User_ID":1064,
+        "Full_Name":"USER_63 FAMILY_63",
+        "City":"Tashkent",
+        "Total_Price":25202
+    },
+    {
+        "User_ID":1067,
+        "Full_Name":"USER_66 FAMILY_66",
+        "City":"Namangan",
+        "Total_Price":9272
+    },
+    {
+        "User_ID":1069,
+        "Full_Name":"USER_68 FAMILY_68",
+        "City":"Fergana",
+        "Total_Price":6264
+    },
+    {
+        "User_ID":1070,
+        "Full_Name":"USER_69 FAMILY_69",
+        "City":"Samarkand",
+        "Total_Price":5010
+    },
+    {
+        "User_ID":1072,
+        "Full_Name":"USER_71 FAMILY_71",
+        "City":"Samarkand",
+        "Total_Price":11973
+    },
+    {
+        "User_ID":1076,
+        "Full_Name":"USER_75 FAMILY_75",
+        "City":"Bukhara",
+        "Total_Price":7464
+    },
+    {
+        "User_ID":1079,
+        "Full_Name":"USER_78 FAMILY_78",
+        "City":"Bukhara",
+        "Total_Price":6664
+    },
+    {
+        "User_ID":1083,
+        "Full_Name":"USER_82 FAMILY_82",
+        "City":"Bukhara",
+        "Total_Price":5437
+    },
+    {
+        "User_ID":1094,
+        "Full_Name":"USER_93 FAMILY_93",
+        "City":"Samarkand",
+        "Total_Price":18702
+    },
+    {
+        "User_ID":1095,
+        "Full_Name":"USER_94 FAMILY_94",
+        "City":"Namangan",
+        "Total_Price":6490
+    },
+    {
+        "User_ID":1100,
+        "Full_Name":"USER_99 FAMILY_99",
+        "City":"Fergana",
+        "Total_Price":7210
+    },
+    {
+        "User_ID":1101,
+        "Full_Name":"USER_100 FAMILY_100",
+        "City":"Tashkent",
+        "Total_Price":5650
+    },
+    {
+        "User_ID":1104,
+        "Full_Name":"USER_103 FAMILY_103",
+        "City":"Samarkand",
+        "Total_Price":12018
+    },
+    {
+        "User_ID":1111,
+        "Full_Name":"USER_110 FAMILY_110",
+        "City":"Tashkent",
+        "Total_Price":9945
+    },
+    {
+        "User_ID":1113,
+        "Full_Name":"USER_112 FAMILY_112",
+        "City":"Bukhara",
+        "Total_Price":13577
+    },
+    {
+        "User_ID":1117,
+        "Full_Name":"USER_116 FAMILY_116",
+        "City":"Namangan",
+        "Total_Price":5855
+    },
+    {
+        "User_ID":1118,
+        "Full_Name":"USER_117 FAMILY_117",
+        "City":"Tashkent",
+        "Total_Price":18205
+    },
+    {
+        "User_ID":1121,
+        "Full_Name":"USER_120 FAMILY_120",
+        "City":"Fergana",
+        "Total_Price":10536
+    },
+    {
+        "User_ID":1125,
+        "Full_Name":"USER_124 FAMILY_124",
+        "City":"Samarkand",
+        "Total_Price":7049
+    },
+    {
+        "User_ID":1130,
+        "Full_Name":"USER_129 FAMILY_129",
+        "City":"Bukhara",
+        "Total_Price":6300
+    },
+    {
+        "User_ID":1132,
+        "Full_Name":"USER_131 FAMILY_131",
+        "City":"Namangan",
+        "Total_Price":7458
+    },
+    {
+        "User_ID":1134,
+        "Full_Name":"USER_133 FAMILY_133",
+        "City":"Samarkand",
+        "Total_Price":10553
+    },
+    {
+        "User_ID":1135,
+        "Full_Name":"USER_134 FAMILY_134",
+        "City":"Samarkand",
+        "Total_Price":7160
+    },
+    {
+        "User_ID":1143,
+        "Full_Name":"USER_142 FAMILY_142",
+        "City":"Tashkent",
+        "Total_Price":10330
+    },
+    {
+        "User_ID":1146,
+        "Full_Name":"USER_145 FAMILY_145",
+        "City":"Tashkent",
+        "Total_Price":10696
+    }
+]

@@ -1,0 +1,4 @@
+food,25000.0
+transport,12000.0
+food,25000
+transport,12000

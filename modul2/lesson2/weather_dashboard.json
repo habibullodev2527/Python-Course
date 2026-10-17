@@ -1,0 +1,52 @@
+[
+    {
+        "city": "London",
+        "temperature": 17.97,
+        "humidity": 61,
+        "pressure": 1021,
+        "visibility": 10000,
+        "wind_speed": 2.68,
+        "category": "Moderate",
+        "comfort_score": 81.08
+    },
+    {
+        "city": "Tokyo",
+        "temperature": 26.7,
+        "humidity": 82,
+        "pressure": 1008,
+        "visibility": 10000,
+        "wind_speed": 0.45,
+        "category": "Moderate",
+        "comfort_score": 73.7
+    },
+    {
+        "city": "New York",
+        "temperature": 23.92,
+        "humidity": 93,
+        "pressure": 1007,
+        "visibility": 10000,
+        "wind_speed": 4.02,
+        "category": "Moderate",
+        "comfort_score": 66.62
+    },
+    {
+        "city": "Dubai",
+        "temperature": 32.39,
+        "humidity": 69,
+        "pressure": 999,
+        "visibility": 10000,
+        "wind_speed": 4.57,
+        "category": "Hot",
+        "comfort_score": 60.58
+    },
+    {
+        "city": "Tashkent",
+        "temperature": 32.76,
+        "humidity": 15,
+        "pressure": 999,
+        "visibility": 10000,
+        "wind_speed": 1.87,
+        "category": "Hot",
+        "comfort_score": 57.24
+    }
+]

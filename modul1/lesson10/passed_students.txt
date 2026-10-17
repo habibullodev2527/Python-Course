@@ -1,0 +1,3 @@
+Ali: 85
+Hasan: 90
+Dilshod: 70

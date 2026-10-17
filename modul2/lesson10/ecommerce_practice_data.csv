@@ -1,0 +1,121 @@
+Transaction_ID,Date,Customer_ID,Gender,Category,Product_Name,Unit_Price,Quantity,Payment_Method,Rating,Is_Returned,Shipping_Cost,Total_Amount
+5001,2024-01-01,138,Female,Clothing,Product_1,240.27,3,Transfer,1,False,22.01,720.81
+5002,2024-01-02,128,Female,Home,Product_2,146.98,4,Transfer,1,False,19.92,587.92
+5003,2024-01-03,114,Male,Electronics,Product_3,442.91,1,Credit Card,5,False,13.17,442.91
+5004,2024-01-04,142,Female,Beauty,Product_4,376.38,1,Credit Card,4,False,23.66,376.38
+5005,2024-01-05,107,Male,Electronics,Product_5,477.01,5,PayPal,5,False,24.82,2385.05
+5006,2024-01-06,120,Male,Electronics,Product_6,172.07,3,Transfer,4,False,9.1,516.21
+5007,2024-01-07,138,Female,Home,Product_7,280.85,3,Credit Card,5,False,12.58,842.55
+5008,2024-01-08,118,Female,Electronics,Product_8,290.42,5,Cash,5,True,23.53,1452.1
+5009,2024-01-09,122,Male,Clothing,Product_9,490.36,4,Cash,3,False,19.43,1961.44
+5010,2024-01-10,110,Male,Clothing,Product_10,46.92,3,Credit Card,5,False,5.96,140.76
+5011,2024-01-11,110,Female,Books,Product_11,159.79,1,Credit Card,2,False,20.63,159.79
+5012,2024-01-12,123,Female,Beauty,Product_12,103.55,1,Transfer,3,False,21.56,103.55
+5013,2024-01-13,135,Female,Electronics,Product_13,141.55,2,Transfer,5,False,20.01,283.1
+5014,2024-01-14,139,Male,Electronics,Product_14,247.79,3,PayPal,1,False,20.99,743.37
+5015,2024-01-15,123,Male,Home,Product_15,192.62,4,Transfer,2,False,21.5,770.48
+5016,2024-01-16,102,Male,Clothing,Product_16,203.4,5,Cash,2,True,8.73,1017.0
+5017,2024-01-17,121,Male,Beauty,Product_17,423.66,5,Cash,2,False,9.71,2118.3
+5018,2024-01-18,101,Male,Books,Product_18,465.71,4,Credit Card,3,False,17.68,1862.84
+5019,2024-01-19,123,Male,Clothing,Product_19,44.5,2,Transfer,5,False,23.16,89.0
+5020,2024-01-20,143,Female,Books,Product_20,112.37,5,PayPal,5,False,11.32,561.85
+5021,2024-01-21,129,Male,Home,Product_21,338.86,3,Cash,1,False,16.77,1016.58
+5022,2024-01-22,137,Male,Home,Product_22,185.74,2,Cash,1,True,18.66,371.48
+5023,2024-01-23,101,Male,Electronics,Product_23,134.54,3,PayPal,2,False,14.04,403.62
+5024,2024-01-24,120,Female,Beauty,Product_24,154.69,1,PayPal,1,True,19.28,154.69
+5025,2024-01-25,132,Male,Books,Product_25,168.05,2,Cash,3,False,22.99,336.1
+5026,2024-01-26,111,Male,Clothing,Product_26,425.85,5,Cash,5,False,17.48,2129.25
+5027,2024-01-27,121,Female,Home,Product_27,76.94,2,PayPal,2,False,15.8,153.88
+5028,2024-01-28,143,Male,Electronics,Product_28,357.37,2,Cash,1,False,13.77,714.74
+5029,2024-01-29,124,Male,Electronics,Product_29,280.88,2,Credit Card,3,False,16.55,561.76
+5030,2024-01-30,148,Male,Books,Product_30,155.29,2,Credit Card,3,False,12.11,310.58
+5031,2024-01-31,126,Male,Home,Product_31,215.69,3,PayPal,1,False,12.83,647.07
+5032,2024-02-01,141,Male,Beauty,Product_32,135.54,1,Transfer,5,False,15.64,135.54
+5033,2024-02-02,127,Female,Home,Product_33,309.64,4,PayPal,1,True,6.33,1238.56
+5034,2024-02-03,115,Female,Books,Product_34,49.98,2,PayPal,2,False,9.58,99.96
+5035,2024-02-04,114,Female,Books,Product_35,12.54,5,Transfer,1,False,15.86,62.7
+5036,2024-02-05,146,Male,Home,Product_36,317.67,2,Transfer,3,False,13.63,635.34
+5037,2024-02-06,143,Male,Books,Product_37,105.19,5,Transfer,1,False,11.66,525.95
+5038,2024-02-07,102,Male,Home,Product_38,44.76,3,Credit Card,5,False,19.61,134.28
+5039,2024-02-08,136,Female,Clothing,Product_39,204.42,5,Cash,4,True,18.87,1022.1
+5040,2024-02-09,106,Male,Home,Product_40,34.88,4,Credit Card,1,False,8.33,139.52
+5041,2024-02-10,120,Male,Home,Product_41,444.44,1,Cash,5,False,22.57,444.44
+5042,2024-02-11,108,Female,Books,Product_42,23.53,5,Credit Card,5,False,14.91,117.65
+5043,2024-02-12,138,Male,Books,Product_43,293.64,5,Cash,3,False,19.83,1468.2
+5044,2024-02-13,117,Female,Electronics,Product_44,224.85,1,Credit Card,5,False,16.46,224.85
+5045,2024-02-14,103,Female,Electronics,Product_45,339.29,4,Transfer,5,False,24.95,1357.16
+5046,2024-02-15,124,Female,Clothing,Product_46,170.79,2,PayPal,5,False,20.05,341.58
+5047,2024-02-16,113,Male,Electronics,Product_47,85.97,5,Credit Card,5,False,19.14,429.85
+5048,2024-02-17,149,Male,Home,Product_48,491.1,1,Cash,2,True,20.57,491.1
+5049,2024-02-18,108,Male,Books,Product_49,421.08,3,Transfer,2,False,7.86,1263.24
+5050,2024-02-19,125,Male,Electronics,Product_50,431.6,1,Credit Card,3,False,9.09,431.6
+5051,2024-02-20,101,Male,Electronics,Product_51,132.62,3,Credit Card,1,False,19.28,397.86
+5052,2024-02-21,119,Male,Clothing,Product_52,29.03,4,Transfer,5,False,14.88,116.12
+5053,2024-02-22,127,Male,Clothing,Product_53,158.6,2,Credit Card,1,False,20.09,317.2
+5054,2024-02-23,146,Female,Home,Product_54,273.17,1,PayPal,1,False,7.06,273.17
+5055,2024-02-24,106,Male,Books,Product_55,170.06,5,Credit Card,3,False,15.73,850.3
+5056,2024-02-25,143,Female,Clothing,Product_56,415.66,4,PayPal,5,False,12.58,1662.64
+5057,2024-02-26,107,Male,Electronics,Product_57,143.06,1,PayPal,5,False,14.14,143.06
+5058,2024-02-27,146,Male,Books,Product_58,482.97,5,Transfer,4,False,17.08,2414.85
+5059,2024-02-28,134,Male,Books,Product_59,234.06,1,Credit Card,1,False,15.05,234.06
+5060,2024-02-29,113,Female,Electronics,Product_60,422.59,3,Transfer,1,False,15.8,1267.77
+5061,2024-03-01,116,Female,Clothing,Product_61,105.25,1,Credit Card,2,False,14.73,105.25
+5062,2024-03-02,135,Female,Electronics,Product_62,211.56,1,Credit Card,4,False,13.18,211.56
+5063,2024-03-03,149,Female,Books,Product_63,352.76,1,Cash,2,False,20.44,352.76
+5064,2024-03-04,139,Male,Beauty,Product_64,77.79,4,Credit Card,2,False,5.24,311.16
+5065,2024-03-05,103,Female,Beauty,Product_65,75.05,1,Transfer,2,False,16.97,75.05
+5066,2024-03-06,101,Male,Home,Product_66,485.07,5,PayPal,3,False,16.31,2425.35
+5067,2024-03-07,105,Male,Electronics,Product_67,360.15,3,Credit Card,3,False,19.32,1080.45
+5068,2024-03-08,141,Female,Electronics,Product_68,30.12,3,Cash,2,False,16.98,90.36
+5069,2024-03-09,103,Female,Home,Product_69,205.42,1,Transfer,4,True,21.54,205.42
+5070,2024-03-10,128,Female,Home,Product_70,222.43,4,Credit Card,1,False,24.18,889.72
+5071,2024-03-11,117,Female,Home,Product_71,374.58,4,Transfer,4,False,11.85,1498.32
+5072,2024-03-12,125,Female,Books,Product_72,132.92,5,Cash,5,False,9.55,664.6
+5073,2024-03-13,143,Female,Electronics,Product_73,100.32,1,Cash,3,False,13.47,100.32
+5074,2024-03-14,133,Female,Books,Product_74,49.63,3,Transfer,1,True,10.76,148.89
+5075,2024-03-15,109,Female,Home,Product_75,219.87,4,Credit Card,1,False,17.3,879.48
+5076,2024-03-16,135,Male,Electronics,Product_76,347.36,1,PayPal,5,True,23.24,347.36
+5077,2024-03-17,113,Female,Books,Product_77,38.51,4,Cash,5,False,7.78,154.04
+5078,2024-03-18,130,Female,Books,Product_78,458.45,4,Credit Card,2,True,7.02,1833.8
+5079,2024-03-19,147,Male,Home,Product_79,226.75,3,Credit Card,3,True,10.12,680.25
+5080,2024-03-20,114,Female,Electronics,Product_80,127.5,2,PayPal,3,False,19.52,255.0
+5081,2024-03-21,107,Male,Home,Product_81,56.0,5,Cash,4,False,16.86,280.0
+5082,2024-03-22,113,Male,Electronics,Product_82,99.6,5,Cash,2,False,7.04,498.0
+5083,2024-03-23,122,Female,Beauty,Product_83,467.96,3,Credit Card,2,False,23.38,1403.88
+5084,2024-03-24,139,Male,Clothing,Product_84,322.75,4,Credit Card,2,False,20.8,1291.0
+5085,2024-03-25,120,Male,Clothing,Product_85,263.18,1,PayPal,2,True,5.46,263.18
+5086,2024-03-26,115,Male,Clothing,Product_86,331.98,4,PayPal,3,False,18.03,1327.92
+5087,2024-03-27,144,Male,Home,Product_87,223.48,3,Cash,3,False,20.42,670.44
+5088,2024-03-28,117,Female,Beauty,Product_88,367.72,5,Transfer,2,False,12.49,1838.6
+5089,2024-03-29,146,Male,Electronics,Product_89,33.38,4,Cash,4,False,6.38,133.52
+5090,2024-03-30,123,Female,Books,Product_90,287.36,5,Credit Card,1,False,6.55,1436.8
+5091,2024-03-31,125,Male,Electronics,Product_91,87.74,1,Cash,1,False,7.08,87.74
+5092,2024-04-01,124,Male,Books,Product_92,68.88,5,Transfer,4,False,21.81,344.4
+5093,2024-04-02,144,Male,Electronics,Product_93,177.52,5,PayPal,2,False,23.21,887.6
+5094,2024-04-03,140,Male,Beauty,Product_94,54.98,2,Transfer,3,False,7.46,109.96
+5095,2024-04-04,128,Female,Books,Product_95,56.14,2,Transfer,1,False,9.72,112.28
+5096,2024-04-05,114,Female,Home,Product_96,162.59,2,Transfer,5,False,8.31,325.18
+5097,2024-04-06,144,Male,Electronics,Product_97,489.96,5,PayPal,5,False,8.73,2449.8
+5098,2024-04-07,100,Male,Electronics,Product_98,95.91,3,Transfer,4,False,21.75,287.73
+5099,2024-04-08,124,Female,Books,Product_99,18.41,5,Transfer,2,False,11.64,92.05
+5100,2024-04-09,106,Male,Home,Product_100,384.05,3,Transfer,1,False,11.23,1152.15
+5101,2024-04-10,108,Male,Home,Product_101,405.39,3,Credit Card,2,False,9.55,1216.17
+5102,2024-04-11,123,Male,Beauty,Product_102,179.69,2,Transfer,1,True,17.16,359.38
+5103,2024-04-12,100,Female,Home,Product_103,237.69,4,PayPal,4,False,12.59,950.76
+5104,2024-04-13,143,Female,Home,Product_104,328.39,1,Transfer,4,False,19.88,328.39
+5105,2024-04-14,107,Female,Home,Product_105,33.55,2,Transfer,5,False,9.11,67.1
+5106,2024-04-15,123,Male,Clothing,Product_106,475.08,2,PayPal,2,False,20.76,950.16
+5107,2024-04-16,110,Male,Beauty,Product_107,444.47,4,Transfer,5,False,17.07,1777.88
+5108,2024-04-17,116,Female,Electronics,Product_108,137.84,1,PayPal,2,False,7.29,137.84
+5109,2024-04-18,107,Female,Books,Product_109,17.5,5,Transfer,5,False,13.29,87.5
+5110,2024-04-19,134,Female,Electronics,Product_110,467.38,5,PayPal,3,False,22.27,2336.9
+5111,2024-04-20,134,Female,Beauty,Product_111,255.51,2,Transfer,3,False,23.46,511.02
+5112,2024-04-21,132,Male,Books,Product_112,274.29,1,Transfer,3,False,14.31,274.29
+5113,2024-04-22,104,Female,Beauty,Product_113,345.14,2,Credit Card,3,True,14.62,690.28
+5114,2024-04-23,141,Male,Home,Product_114,311.77,3,Credit Card,1,False,23.37,935.31
+5115,2024-04-24,138,Female,Books,Product_115,472.51,2,Transfer,3,True,16.74,945.02
+5116,2024-04-25,140,Male,Home,Product_116,472.68,2,Transfer,4,False,5.66,945.36
+5117,2024-04-26,127,Female,Electronics,Product_117,434.93,5,Cash,4,False,23.25,2174.65
+5118,2024-04-27,106,Female,Electronics,Product_118,321.84,5,PayPal,1,False,9.96,1609.2
+5119,2024-04-28,108,Female,Books,Product_119,402.47,5,Cash,3,False,16.55,2012.35
+5120,2024-04-29,107,Female,Books,Product_120,341.81,3,Credit Card,3,False,8.31,1025.43

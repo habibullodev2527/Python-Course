@@ -1,0 +1,20 @@
+{
+    "id": 101,
+    "name": "Habibullo",
+    "age": 22,
+    "gender": "Male",
+    "email": "habibullo@gmail.com",
+    "phone": "+998901234567",
+    "city": "Tashkent",
+    "courses": [
+        "Python",
+        "SQL",
+        "Power BI"
+    ],
+    "is_graduated": false,
+    "marks": {
+        "Python": 95,
+        "SQL": 92,
+        "Power BI": 88
+    }
+}

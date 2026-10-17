@@ -1,0 +1,9 @@
+EmployeeId,EmployeeFullName,Title,TotalCustomers,TotalRevenue,AverageRevenuePerCustomer,RevenueRank,PerformanceStatus
+3,Jane Peacock,Sales Support Agent,21,833.04,39.67,1,Above Average
+4,Margaret Park,Sales Support Agent,20,775.4,38.77,2,Above Average
+5,Steve Johnson,Sales Support Agent,18,720.16,40.01,3,Above Average
+2,Nancy Edwards,Sales Manager,0,0.0,,4,Below Average
+1,Andrew Adams,General Manager,0,0.0,,4,Below Average
+6,Michael Mitchell,IT Manager,0,0.0,,4,Below Average
+7,Robert King,IT Staff,0,0.0,,4,Below Average
+8,Laura Callahan,IT Staff,0,0.0,,4,Below Average

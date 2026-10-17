@@ -1,0 +1,3 @@
+Name: Ali
+Umumiy ball: 240
+O'rtacha ball: 80.0

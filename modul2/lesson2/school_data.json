@@ -1,0 +1,93 @@
+{
+    "school_name": "Future Tech Academy",
+    "location": {
+        "city": "Tashkent",
+        "district": "Yunusobod",
+        "country": "Uzbekistan"
+    },
+    "founded_year": 2015,
+    "departments": [
+        {
+            "name": "Data Science",
+            "head": "Ali Valiyev",
+            "courses": [
+                {
+                    "course_id": "DS101",
+                    "course_name": "Python for Data Analysis",
+                    "duration_months": 3,
+                    "students": [
+                        {
+                            "id": 1,
+                            "name": "Azizbek",
+                            "age": 22,
+                            "score": 88.5
+                        },
+                        {
+                            "id": 2,
+                            "name": "Malika",
+                            "age": 21,
+                            "score": 91.2
+                        },
+                        {
+                            "id": 3,
+                            "name": "Jasur",
+                            "age": 23,
+                            "score": 76.4
+                        }
+                    ]
+                },
+                {
+                    "course_id": "DS201",
+                    "course_name": "Machine Learning",
+                    "duration_months": 4,
+                    "students": [
+                        {
+                            "id": 4,
+                            "name": "Dilshod",
+                            "age": 24,
+                            "score": 85.3
+                        },
+                        {
+                            "id": 5,
+                            "name": "Nodira",
+                            "age": 22,
+                            "score": 93.7
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Software Engineering",
+            "head": "Bekzod Karimov",
+            "courses": [
+                {
+                    "course_id": "SE101",
+                    "course_name": "Web Development",
+                    "duration_months": 5,
+                    "students": [
+                        {
+                            "id": 6,
+                            "name": "Otabek",
+                            "age": 20,
+                            "score": 82.1
+                        },
+                        {
+                            "id": 7,
+                            "name": "Shahnoza",
+                            "age": 21,
+                            "score": 90.4
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "facilities": [
+        "Library",
+        "Computer Lab",
+        "Conference Hall",
+        "Startup Hub"
+    ],
+    "is_active": true
+}

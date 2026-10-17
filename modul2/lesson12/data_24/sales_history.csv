@@ -1,0 +1,151 @@
+Transaction_ID,User_ID,Product_Category,Quantity,Unit_Price,Discount_Percent,Payment_Method,Total_Price
+50001,1068,Home Appliances,5,60,24,Online Transfer,300
+50002,1138,Electronics,1,725,15,Card,725
+50003,1067,Office Supplies,7,1186,0,Card,8302
+50004,1109,Home Appliances,1,236,20,Online Transfer,236
+50005,1146,Electronics,4,856,13,Card,3424
+50006,1111,Home Appliances,9,793,14,Card,7137
+50007,1111,Home Appliances,1,1300,8,Card,1300
+50008,1034,Electronics,4,1383,14,Cash,5532
+50009,1111,Office Supplies,6,147,16,Online Transfer,882
+50010,1008,Office Supplies,6,104,24,Online Transfer,624
+50011,1113,Accessories,8,672,23,Cash,5376
+50012,1083,Electronics,1,713,3,Online Transfer,713
+50013,1042,Accessories,7,807,11,Card,5649
+50014,1101,Accessories,1,455,26,Online Transfer,455
+50015,1006,Accessories,7,118,25,Card,826
+50016,1026,Office Supplies,3,1385,4,Cash,4155
+50017,1064,Electronics,8,1362,28,Card,10896
+50018,1059,Accessories,3,800,4,Online Transfer,2400
+50019,1109,Electronics,1,1221,10,Online Transfer,1221
+50020,1121,Electronics,8,1317,27,Online Transfer,10536
+50021,1033,Office Supplies,3,1007,5,Cash,3021
+50022,1150,Accessories,2,414,6,Cash,828
+50023,1021,Accessories,1,531,23,Online Transfer,531
+50024,1070,Electronics,3,250,13,Card,750
+50025,1112,Home Appliances,2,203,23,Cash,406
+50026,1004,Office Supplies,2,122,10,Online Transfer,244
+50027,1094,Office Supplies,6,762,29,Online Transfer,4572
+50028,1075,Office Supplies,1,345,12,Cash,345
+50029,1062,Office Supplies,2,1090,1,Cash,2180
+50030,1094,Accessories,6,1290,24,Cash,7740
+50031,1095,Accessories,3,110,6,Card,330
+50032,1055,Home Appliances,4,988,19,Card,3952
+50033,1137,Office Supplies,1,91,3,Online Transfer,91
+50034,1131,Office Supplies,8,74,26,Cash,592
+50035,1031,Electronics,7,1112,7,Card,7784
+50036,1040,Accessories,7,180,19,Cash,1260
+50037,1036,Office Supplies,3,1302,28,Online Transfer,3906
+50038,1006,Home Appliances,3,157,21,Card,471
+50039,1066,Home Appliances,2,221,20,Card,442
+50040,1075,Accessories,1,151,18,Card,151
+50041,1004,Home Appliances,7,915,12,Online Transfer,6405
+50042,1079,Home Appliances,7,573,13,Cash,4011
+50043,1134,Accessories,2,324,9,Card,648
+50044,1118,Office Supplies,7,1117,10,Online Transfer,7819
+50045,1113,Office Supplies,8,866,1,Cash,6928
+50046,1094,Home Appliances,1,1006,24,Online Transfer,1006
+50047,1062,Home Appliances,9,1090,25,Cash,9810
+50048,1079,Office Supplies,7,379,8,Online Transfer,2653
+50049,1136,Accessories,3,61,16,Cash,183
+50050,1026,Home Appliances,8,1391,25,Card,11128
+50051,1044,Electronics,7,265,2,Cash,1855
+50052,1133,Accessories,8,388,23,Online Transfer,3104
+50053,1070,Home Appliances,6,710,5,Online Transfer,4260
+50054,1118,Home Appliances,9,1154,4,Cash,10386
+50055,1068,Electronics,5,423,4,Card,2115
+50056,1019,Electronics,3,1025,21,Card,3075
+50057,1020,Office Supplies,3,759,14,Cash,2277
+50058,1113,Accessories,1,1273,22,Cash,1273
+50059,1140,Accessories,8,515,16,Online Transfer,4120
+50060,1047,Office Supplies,2,1162,8,Card,2324
+50061,1001,Accessories,3,1341,2,Cash,4023
+50062,1090,Accessories,8,538,19,Card,4304
+50063,1142,Accessories,8,96,25,Cash,768
+50064,1064,Accessories,4,1361,16,Cash,5444
+50065,1038,Accessories,4,827,28,Card,3308
+50066,1037,Electronics,5,1089,26,Cash,5445
+50067,1126,Accessories,6,760,9,Cash,4560
+50068,1139,Electronics,5,450,2,Online Transfer,2250
+50069,1100,Accessories,7,1030,17,Cash,7210
+50070,1077,Office Supplies,2,1159,17,Cash,2318
+50071,1003,Home Appliances,7,299,29,Cash,2093
+50072,1134,Electronics,7,440,16,Online Transfer,3080
+50073,1010,Accessories,1,384,23,Card,384
+50074,1005,Office Supplies,7,678,2,Online Transfer,4746
+50075,1138,Home Appliances,5,186,2,Online Transfer,930
+50076,1130,Electronics,3,932,5,Card,2796
+50077,1013,Home Appliances,3,737,12,Online Transfer,2211
+50078,1130,Office Supplies,4,876,23,Card,3504
+50079,1084,Electronics,2,776,28,Online Transfer,1552
+50080,1065,Home Appliances,2,643,14,Card,1286
+50081,1063,Accessories,1,1296,24,Cash,1296
+50082,1101,Electronics,5,1039,8,Online Transfer,5195
+50083,1073,Home Appliances,4,421,3,Online Transfer,1684
+50084,1017,Office Supplies,2,984,13,Online Transfer,1968
+50085,1009,Office Supplies,3,1044,4,Online Transfer,3132
+50086,1143,Electronics,7,451,1,Cash,3157
+50087,1038,Home Appliances,7,664,10,Online Transfer,4648
+50088,1094,Electronics,4,1346,8,Cash,5384
+50089,1095,Electronics,5,1232,23,Cash,6160
+50090,1049,Home Appliances,5,1225,2,Cash,6125
+50091,1069,Home Appliances,6,1044,26,Cash,6264
+50092,1062,Accessories,9,669,27,Card,6021
+50093,1078,Home Appliances,2,237,28,Card,474
+50094,1117,Office Supplies,5,1171,8,Online Transfer,5855
+50095,1120,Electronics,3,180,2,Card,540
+50096,1137,Electronics,4,854,24,Card,3416
+50097,1076,Office Supplies,6,1244,1,Online Transfer,7464
+50098,1035,Home Appliances,8,985,11,Online Transfer,7880
+50099,1001,Office Supplies,1,1035,9,Online Transfer,1035
+50100,1040,Office Supplies,8,232,8,Card,1856
+50101,1064,Accessories,7,1032,14,Card,7224
+50102,1150,Office Supplies,1,413,7,Online Transfer,413
+50103,1060,Electronics,2,88,24,Cash,176
+50104,1064,Office Supplies,3,546,4,Online Transfer,1638
+50105,1093,Electronics,1,1422,10,Cash,1422
+50106,1072,Electronics,9,1031,26,Cash,9279
+50107,1011,Electronics,8,970,1,Online Transfer,7760
+50108,1105,Home Appliances,2,1470,23,Online Transfer,2940
+50109,1014,Accessories,9,771,27,Online Transfer,6939
+50110,1060,Electronics,7,1234,14,Card,8638
+50111,1030,Electronics,9,65,5,Cash,585
+50112,1035,Home Appliances,6,542,7,Card,3252
+50113,1005,Electronics,6,1499,26,Card,8994
+50114,1083,Office Supplies,4,1181,4,Online Transfer,4724
+50115,1123,Office Supplies,2,943,15,Card,1886
+50116,1078,Accessories,7,360,25,Online Transfer,2520
+50117,1062,Electronics,5,788,17,Cash,3940
+50118,1132,Home Appliances,6,1243,5,Online Transfer,7458
+50119,1089,Office Supplies,2,595,4,Card,1190
+50120,1042,Home Appliances,5,463,27,Card,2315
+50121,1089,Home Appliances,4,300,15,Online Transfer,1200
+50122,1146,Office Supplies,9,808,12,Online Transfer,7272
+50123,1040,Home Appliances,6,1214,27,Card,7284
+50124,1072,Office Supplies,2,1347,4,Cash,2694
+50125,1039,Home Appliances,1,1489,12,Cash,1489
+50126,1104,Office Supplies,5,1112,16,Online Transfer,5560
+50127,1014,Electronics,9,863,17,Cash,7767
+50128,1032,Accessories,6,78,7,Card,468
+50129,1125,Office Supplies,7,1007,12,Online Transfer,7049
+50130,1097,Office Supplies,5,526,29,Card,2630
+50131,1023,Accessories,6,367,28,Card,2202
+50132,1063,Office Supplies,5,294,18,Cash,1470
+50133,1143,Office Supplies,9,797,25,Online Transfer,7173
+50134,1145,Home Appliances,6,746,2,Online Transfer,4476
+50135,1053,Accessories,8,321,23,Cash,2568
+50136,1104,Electronics,2,1312,7,Card,2624
+50137,1104,Office Supplies,9,426,1,Card,3834
+50138,1039,Accessories,5,315,7,Card,1575
+50139,1134,Home Appliances,7,975,26,Card,6825
+50140,1067,Electronics,1,970,12,Online Transfer,970
+50141,1135,Accessories,5,1432,12,Online Transfer,7160
+50142,1042,Electronics,2,389,0,Cash,778
+50143,1015,Electronics,6,438,5,Cash,2628
+50144,1111,Electronics,1,626,23,Online Transfer,626
+50145,1033,Office Supplies,3,52,18,Online Transfer,156
+50146,1038,Office Supplies,5,1215,15,Card,6075
+50147,1097,Home Appliances,4,425,7,Card,1700
+50148,1033,Home Appliances,3,373,27,Cash,1119
+50149,1086,Accessories,5,195,0,Online Transfer,975
+50150,1066,Home Appliances,8,342,26,Cash,2736

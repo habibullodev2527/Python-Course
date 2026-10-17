@@ -1,0 +1,6 @@
+Category,Category_Revenue,Return_Rate,Low_Performing
+Beauty,9965.67,0.21428571428571427,True
+Books,19752.28,0.10714285714285714,False
+Clothing,13455.41,0.1875,True
+Electronics,24443.04,0.0625,False
+Home,21195.77,0.16666666666666666,False

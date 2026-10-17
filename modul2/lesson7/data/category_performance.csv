@@ -1,0 +1,4 @@
+Category,TotalRevenue,TotalQuantity,AveragePrice,ProductCount,PerformanceStatus
+Clothing,5080,157,31.176470588235293,17,Underperforming
+Electronics,53945,183,276.7647058823529,17,Above Average
+Home,7645,144,55.0,16,Underperforming

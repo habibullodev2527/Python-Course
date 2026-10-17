@@ -1,0 +1,6 @@
+CustomerID,TotalSpent,TotalOrders,TotalQuantity,UniqueProductTypes,CustomerSegment,IsRepeatBuyer
+101,3425,21,27,17,VIP,True
+102,3425,21,25,17,VIP,True
+103,2590,20,28,16,Regular,True
+104,3955,20,27,17,VIP,True
+105,1640,18,21,14,Low Spender,True

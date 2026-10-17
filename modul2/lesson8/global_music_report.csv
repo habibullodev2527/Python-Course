@@ -1,0 +1,60 @@
+CustomerId,FullName,Country,TotalSpent,TotalTracksPurchased,MostPurchasedGenre,UniqueArtistsPurchased,SpendingRank
+6,Helena Holý,Czech Republic,49.620000000000005,38,Rock,13,1
+26,Richard Cunningham,USA,47.620000000000005,38,Rock,11,2
+57,Luis Rojas,Chile,46.62,38,Rock,15,3
+45,Ladislav Kovács,Hungary,45.62,38,Rock,18,4
+46,Hugh O'Reilly,Ireland,45.62,38,Rock,11,4
+28,Julia Barnett,USA,43.62,38,Rock,14,5
+37,Fynn Zimmermann,Germany,43.62,38,Rock,15,5
+24,Frank Ralston,USA,43.62,38,Rock,19,5
+7,Astrid Gruber,Austria,42.62,38,Rock,11,6
+25,Victor Stevens,USA,42.62,38,Rock,15,6
+44,Terhi Hämäläinen,Finland,41.62,38,Rock,13,7
+5,František Wichterlová,Czech Republic,40.620000000000005,38,Rock,14,8
+43,Isabelle Mercier,France,40.620000000000005,38,Rock,18,8
+48,Johannes Van der Berg,Netherlands,40.62,38,Rock,15,9
+1,Luís Gonçalves,Brazil,39.620000000000005,38,Rock,15,10
+17,Jack Smith,USA,39.620000000000005,38,Rock,13,10
+22,Heather Leacock,USA,39.620000000000005,38,Metal,16,10
+34,João Fernandes,Portugal,39.620000000000005,38,Rock,20,10
+42,Wyatt Girard,France,39.62,38,Metal,15,11
+20,Dan Miller,USA,39.62,38,Latin,17,11
+3,François Tremblay,Canada,39.62,38,Metal,21,11
+4,Bjørn Hansen,Norway,39.62,38,Rock,18,11
+51,Joakim Johansson,Sweden,38.620000000000005,38,Latin,16,12
+39,Camille Bernard,France,38.620000000000005,38,Rock,19,12
+19,Tim Goyer,USA,38.62,38,Rock,16,13
+15,Jennifer Peterson,Canada,38.62,38,Rock,17,13
+40,Dominique Lefebvre,France,38.62,38,Rock,17,13
+58,Manoj Pareek,India,38.62,38,Rock,15,13
+56,Diego Gutiérrez,Argentina,37.620000000000005,38,Alternative & Punk,14,14
+52,Emma Jones,United Kingdom,37.620000000000005,38,Latin,16,14
+47,Lucas Mancini,Italy,37.620000000000005,38,Rock,16,14
+38,Niklas Schröder,Germany,37.620000000000005,38,Rock,14,14
+55,Mark Taylor,Australia,37.620000000000005,38,Rock,9,14
+30,Edward Francis,Canada,37.620000000000005,38,Rock,16,14
+18,Michelle Brooks,USA,37.620000000000005,38,Rock,15,14
+10,Eduardo Martins,Brazil,37.620000000000005,38,Rock,14,14
+14,Mark Philips,Canada,37.620000000000005,38,Rock,19,14
+27,Patrick Gray,USA,37.620000000000005,38,Rock,17,14
+9,Kara Nielsen,Denmark,37.620000000000005,38,Rock,15,14
+13,Fernanda Ramos,Brazil,37.620000000000005,38,Rock,20,14
+35,Madalena Sampaio,Portugal,37.620000000000005,38,Rock,8,14
+31,Martha Silk,Canada,37.620000000000005,38,Latin,18,14
+11,Alexandre Rocha,Brazil,37.62,38,Latin,16,15
+21,Kathy Chase,USA,37.62,38,Rock,16,15
+23,John Gordon,USA,37.62,38,Latin,19,15
+12,Roberto Almeida,Brazil,37.62,38,Latin,16,15
+16,Frank Harris,USA,37.62,38,Metal,9,15
+8,Daan Peeters,Belgium,37.62,38,Rock,13,15
+2,Leonie Köhler,Germany,37.62,38,Rock,17,15
+29,Robert Brown,Canada,37.62,38,Rock,14,15
+32,Aaron Mitchell,Canada,37.62,38,Latin,17,15
+41,Marc Dubois,France,37.62,38,Rock,22,15
+36,Hannah Schneider,Germany,37.62,38,Metal,8,15
+33,Ellie Sullivan,Canada,37.62,38,Rock,21,15
+49,Stanisław Wójcik,Poland,37.62,38,Rock,17,15
+50,Enrique Muñoz,Spain,37.62,38,Rock,15,15
+53,Phil Hughes,United Kingdom,37.62,38,Rock,17,15
+54,Steve Murray,United Kingdom,37.62,38,Rock,19,15
+59,Puja Srivastava,India,36.64,36,Rock,19,16
